@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Spam Filter</string>
+    <string name="notification_access_off">To dismiss Google Messages notifications by keyword, enable notification access for Spam Filter.</string>
+    <string name="notification_access_on">Notification access is on. Matching Google Messages alerts are dismissed. Messages stay in your inbox.</string>
+    <string name="notification_settings">Notification access settings</string>
+    <string name="settings_unavailable">Open Android Settings and search for notification access.</string>
+    <string name="enter_keyword">Enter a keyword</string>
+    <string name="keyword_exists">This keyword is already in your list.</string>
 </resources>
